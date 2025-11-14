@@ -1,1 +1,3 @@
-bash```https://raw.githubusercontent.com/welldanyogia/setup-vps/remote_vps.sh```
+```bash
+https://raw.githubusercontent.com/welldanyogia/setup-vps/remote_setup_bench.sh
+```
