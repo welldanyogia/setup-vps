@@ -10,6 +10,7 @@ Gunakan script berikut untuk melakukan benchmark jaringan pada VPS secara otomat
 
 ```bash
 wget -qO- https://raw.githubusercontent.com/welldanyogia/setup-vps/main/remote_setup_bench.sh | bash
+```
 
 ## 📌 2. Bot Setup
 
@@ -17,3 +18,4 @@ Gunakan script berikut untuk melakukan benchmark jaringan pada VPS secara otomat
 
 ```bash
 wget -qO- https://raw.githubusercontent.com/welldanyogia/setup-vps/main/install_bot.sh | bash
+```
