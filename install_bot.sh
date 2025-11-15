@@ -37,7 +37,7 @@ fi
 # --- Clone repository (public or private, silakan sesuaikan) ---
 if [ ! -d "booking-semeru" ]; then
   echo "[INFO] Cloning booking-semeru..."
-  git clone https://github.com/welldanyogia/booking-semeru.git
+  git clone git@github.com:welldanyogia/booking-semeru.git
 fi
 
 # --- Run installer ---
