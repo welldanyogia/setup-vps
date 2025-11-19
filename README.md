@@ -25,7 +25,7 @@ echo 'net.ipv4.tcp_congestion_control=bbr' | sudo tee -a /etc/sysctl.conf
 sudo sysctl -p
 echo '* soft nofile 1048576' | sudo tee -a /etc/security/limits.conf
 echo '* hard nofile 1048576' | sudo tee -a /etc/security/limits.conf
-git clone https://welldanyogia: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@github.com/welldanyogia/booking-semeru.git
+git clone https://welldanyogia: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@github.com/welldanyogia/booking-semeru.git
 cd booking-semeru
 bash install.sh
 ```
@@ -43,7 +43,7 @@ sudo apt install -y python3 python3-venv python3-pip ca-certificates
 sudo apt install -y python-is-python3
 
 # 1) clone repo
-git clone https://welldanyogia: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@github.com/welldanyogia/semeru-kapasitas.git
+git clone https://welldanyogia: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@github.com/welldanyogia/semeru-kapasitas.git
 cd semeru-kapasitas
 
 # 2) virtualenv
