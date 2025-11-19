@@ -17,5 +17,5 @@ wget -qO- https://raw.githubusercontent.com/welldanyogia/setup-vps/main/remote_s
 Gunakan script berikut untuk melakukan benchmark jaringan pada VPS secara otomatis:
 
 ```bash
-wget -qO- https://raw.githubusercontent.com/welldanyogia/setup-vps/main/install_bot.sh | bash
+wget -qO- https://raw.githubusercontent.com/welldanyogia/setup-vps/main/install.txt | bash
 ```
